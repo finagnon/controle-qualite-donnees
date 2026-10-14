@@ -1,0 +1,191 @@
+code,table,cle,detail
+R01,articles,ART-00044,Libellé vide
+R01,articles,ART-00142,Libellé vide
+R01,articles,ART-00207,Libellé vide
+R01,articles,ART-00279,Libellé vide
+R01,articles,ART-00294,Libellé vide
+R02,articles,ART-00109,Unité vide
+R02,articles,ART-00125,Unité vide
+R02,articles,ART-00139,Unité vide
+R02,articles,ART-00153,Unité vide
+R02,articles,ART-00160,Unité vide
+R02,articles,ART-00188,Unité vide
+R02,articles,ART-00190,Unité vide
+R02,articles,ART-00298,Unité vide
+R03,articles,ART-00016,Prix vide
+R03,articles,ART-00080,Prix vide
+R03,articles,ART-00081,Prix vide
+R03,articles,ART-00139,Prix vide
+R03,articles,ART-00157,Prix vide
+R03,articles,ART-00169,Prix vide
+R04,articles,ART-00084,Code présent 2 fois
+R04,articles,ART-00143,Code présent 2 fois
+R04,articles,ART-00191,Code présent 2 fois
+R04,articles,ART-00202,Code présent 2 fois
+R05,articles,ART-00078 / ART-00902,Doublon probable : vancomycine 100 mg (078)
+R05,articles,ART-00215 / ART-00903,Doublon probable : chlorure de sodium 1 l (215)
+R05,articles,ART-00113 / ART-00904,Doublon probable : cisplatine 500 mg (113)
+R05,articles,ART-00293 / ART-00905,Doublon probable : carboplatine 50 mg (293)
+R05,articles,ART-00037 / ART-00900,Doublon probable : glucose 1 g (037)
+R05,articles,ART-00283 / ART-00901,Doublon probable : kétoprofène 500 ml (283)
+R06,articles,ART-00066,UCD invalide : 85088316759
+R06,articles,ART-00073,UCD invalide : 67354680705
+R06,articles,ART-00089,UCD invalide : 83456964066
+R06,articles,ART-00093,UCD invalide : 49778873818
+R06,articles,ART-00096,UCD invalide : 40894584122
+R06,articles,ART-00116,UCD invalide : 37467201528
+R06,articles,ART-00132,UCD invalide : 3268543565
+R06,articles,ART-00174,UCD invalide : 2478107295
+R06,articles,ART-00202,UCD invalide : 36925453071
+R06,articles,ART-00279,UCD invalide : 42436564099
+R06,articles,ART-00202,UCD invalide : 36925453071
+R07,articles,ART-00010,ATC invalide : A
+R07,articles,ART-00054,ATC invalide : J1CA04
+R07,articles,ART-00058,ATC invalide : B05-BA03
+R07,articles,ART-00126,ATC invalide : c03ca01
+R07,articles,ART-00139,ATC invalide : XX0000
+R07,articles,ART-00151,ATC invalide : j01ca04
+R07,articles,ART-00161,ATC invalide : L01X
+R07,articles,ART-00188,ATC invalide : N02 BE01
+R07,articles,ART-00199,ATC invalide : N2BE01
+R07,articles,ART-00228,ATC invalide : J01DD040
+R07,articles,ART-00270,ATC invalide : N02BE1
+R07,articles,ART-00287,ATC invalide : M01AE0
+R08,articles,ART-00114,Prix non positif : 0.0
+R08,articles,ART-00198,Prix non positif : 0.0
+R08,articles,ART-00299,Prix non positif : 0.0
+R09,articles,ART-00017,Unité hors référentiel : POCHE
+R09,articles,ART-00036,Unité hors référentiel : Flacon
+R09,articles,ART-00074,Unité hors référentiel : Amp
+R09,articles,ART-00080,Unité hors référentiel : FL
+R09,articles,ART-00112,Unité hors référentiel : FL
+R09,articles,ART-00116,Unité hors référentiel : FL
+R09,articles,ART-00117,Unité hors référentiel : fl.
+R09,articles,ART-00163,Unité hors référentiel : POCHE
+R09,articles,ART-00164,Unité hors référentiel : FL
+R09,articles,ART-00233,Unité hors référentiel : FL
+R09,articles,ART-00248,Unité hors référentiel : fl.
+R09,articles,ART-00251,Unité hors référentiel : POCHE
+R09,articles,ART-00267,Unité hors référentiel : Flacon
+R09,articles,ART-00277,Unité hors référentiel : fl.
+R09,articles,ART-00280,Unité hors référentiel : POCHE
+R10,articles,ART-00001,Mise à jour 2020-11-25 avant création 2020-12-25
+R10,articles,ART-00118,Mise à jour 2020-06-30 avant création 2020-07-30
+R10,articles,ART-00133,Mise à jour 2022-05-29 avant création 2022-06-28
+R10,articles,ART-00165,Mise à jour 2020-01-07 avant création 2020-02-06
+R10,articles,ART-00221,Mise à jour 2022-08-05 avant création 2022-09-04
+R11,articles,ART-00001,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00014,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00017,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00034,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00036,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00046,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00050,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00057,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00081,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00097,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00099,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00107,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00110,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00111,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00144,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00169,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00201,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00204,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00213,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00216,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00247,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00250,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00265,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00273,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00282,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00283,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00285,"Article actif, fournisseur FRN-007 inactif"
+R11,articles,ART-00289,"Article actif, fournisseur FRN-019 inactif"
+R11,articles,ART-00901,"Article actif, fournisseur FRN-007 inactif"
+R12,articles,ART-00138,Fournisseur inconnu : FRN-0X1
+R12,articles,ART-00152,Fournisseur inconnu : FRN-120
+R12,articles,ART-00162,Fournisseur inconnu : FRN-099
+R12,articles,ART-00235,Fournisseur inconnu : FRN-777
+R13,articles,ART-00001,Dernière mise à jour : 2020-11-25
+R13,articles,ART-00002,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00059,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00063,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00080,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00084,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00118,Dernière mise à jour : 2020-06-30
+R13,articles,ART-00131,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00133,Dernière mise à jour : 2022-05-29
+R13,articles,ART-00156,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00165,Dernière mise à jour : 2020-01-07
+R13,articles,ART-00177,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00187,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00198,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00221,Dernière mise à jour : 2022-08-05
+R13,articles,ART-00223,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00236,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00238,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00248,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00253,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00256,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00290,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00292,Dernière mise à jour : 2021-06-30
+R13,articles,ART-00084,Dernière mise à jour : 2021-06-30
+R14,fournisseurs,FRN-003,E-mail invalide : commandes@fournisseur
+R14,fournisseurs,FRN-017,E-mail invalide : ventes@@example.com
+R14,fournisseurs,FRN-019,E-mail invalide : contact.example.com
+R14,fournisseurs,FRN-200,E-mail invalide : ventes@@example.com
+R15,fournisseurs,FRN-011,E-mail nominatif (prenom.nom@) : à remplacer par une adresse de service
+R15,fournisseurs,FRN-012,E-mail nominatif (prenom.nom@) : à remplacer par une adresse de service
+R15,fournisseurs,FRN-016,E-mail nominatif (prenom.nom@) : à remplacer par une adresse de service
+R15,fournisseurs,FRN-021,E-mail nominatif (prenom.nom@) : à remplacer par une adresse de service
+R16,fournisseurs,FRN-006,Pays vide
+R16,fournisseurs,FRN-016,Pays vide
+R17,fournisseurs,FRN-002 / FRN-201,Même raison sociale : Fournisseur B (fictif)
+R17,fournisseurs,FRN-017 / FRN-200,Même raison sociale : Fournisseur Q (fictif)
+R18,commandes,CDE-000301,Article inconnu : ART-80002
+R18,commandes,CDE-000334,Article inconnu : ART-80006
+R18,commandes,CDE-000384,Article inconnu : ART-80008
+R18,commandes,CDE-000440,Article inconnu : ART-80000
+R18,commandes,CDE-000568,Article inconnu : ART-80007
+R18,commandes,CDE-000622,Article inconnu : ART-80004
+R18,commandes,CDE-000755,Article inconnu : ART-80003
+R18,commandes,CDE-001286,Article inconnu : ART-80001
+R18,commandes,CDE-001370,Article inconnu : ART-80009
+R18,commandes,CDE-001448,Article inconnu : ART-80005
+R19,commandes,CDE-000032,Quantité : -5
+R19,commandes,CDE-000266,Quantité : 0
+R19,commandes,CDE-000750,Quantité : -12
+R19,commandes,CDE-001066,Quantité : 0
+R19,commandes,CDE-001205,Quantité : -1
+R19,commandes,CDE-001280,Quantité : 0
+R20,commandes,CDE-000500,"Livrée le 2025-04-12, commandée le 2025-04-15"
+R20,commandes,CDE-000617,"Livrée le 2025-08-06, commandée le 2025-08-09"
+R20,commandes,CDE-000658,"Livrée le 2025-05-07, commandée le 2025-05-10"
+R20,commandes,CDE-000905,"Livrée le 2025-02-07, commandée le 2025-02-10"
+R20,commandes,CDE-001038,"Livrée le 2025-01-22, commandée le 2025-01-25"
+R21,commandes,CDE-000069,Écart de prix 149.0 %
+R21,commandes,CDE-000083,Écart de prix 73.0 %
+R21,commandes,CDE-000140,Écart de prix 147.0 %
+R21,commandes,CDE-000161,Écart de prix 44.0 %
+R21,commandes,CDE-000290,Écart de prix 42.0 %
+R21,commandes,CDE-000333,Écart de prix 37.0 %
+R21,commandes,CDE-000360,Écart de prix 80.0 %
+R21,commandes,CDE-000403,Écart de prix 140.0 %
+R21,commandes,CDE-000441,Écart de prix 37.0 %
+R21,commandes,CDE-000509,Écart de prix -49.0 %
+R21,commandes,CDE-000528,Écart de prix 39.0 %
+R21,commandes,CDE-000563,Écart de prix 154.0 %
+R21,commandes,CDE-000721,Écart de prix 74.0 %
+R21,commandes,CDE-000780,Écart de prix 73.0 %
+R21,commandes,CDE-000954,Écart de prix 86.0 %
+R21,commandes,CDE-001026,Écart de prix 42.0 %
+R21,commandes,CDE-001036,Écart de prix 79.0 %
+R21,commandes,CDE-001039,Écart de prix -52.0 %
+R21,commandes,CDE-001118,Écart de prix 156.0 %
+R21,commandes,CDE-001170,Écart de prix -50.0 %
+R21,commandes,CDE-001196,Écart de prix -52.0 %
+R21,commandes,CDE-001296,Écart de prix -48.0 %
+R21,commandes,CDE-001311,Écart de prix 76.0 %
+R21,commandes,CDE-001314,Écart de prix 144.0 %
+R21,commandes,CDE-001436,Écart de prix 35.0 %
